@@ -1,0 +1,57 @@
+# מכירת כרטיסים במחיר עלות — Generative Engine Optimization Map
+
+> A ספורט וכדורגל business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-edb8708a.zappy5.app
+קנו כרטיסים למשחקי כדורגל במחיר עלות! מגוון רחב של כרטיסים לליגת העל ולכל המשחקים בישראל. הזמינו עכשיו!
+
+### כרטיסים זמינים
+https://-edb8708a.zappy5.app/services
+גלו את מגוון הכרטיסים הזמינים למשחקי כדורגל בישראל. כרטיסים לליגת העל, גביע המדינה ועוד, כולם במחיר עלות!
+
+### אודות
+https://-edb8708a.zappy5.app/about
+למדו עלינו ועל המשימה שלנו להנגיש כרטיסים למשחקי כדורגל לכל אוהד ישראלי במחיר הוגן וללא תוספות מיותרות.
+
+### צור קשר
+https://-edb8708a.zappy5.app/contact
+צרו איתנו קשר לרכישת כרטיסים למשחקי כדורגל במחיר עלות. אנחנו כאן לענות על כל שאלה ולעזור לכם למצוא את הכרטיסים המושלמים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-edb8708a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-edb8708a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-edb8708a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכירת כרטיסים במחיר עלות
+מכירת כרטיסים במחיר עלות is a business in the ספורט וכדורגל industry.
+
+## Target Audience
+אוהדי כדורגל ישראלי מכל הרמות
+
+## Industry
+ספורט וכדורגל
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-edb8708a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-edb8708a.zappy5.app/robots.txt
